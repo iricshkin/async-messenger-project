@@ -1,0 +1,4 @@
+aioconsole==0.5.1
+python-dotenv==0.21.0
+mypy==0.991
+flake8==6.0.0
