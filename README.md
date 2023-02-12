@@ -1,4 +1,11 @@
-# async-messenger-project (asyncio)
+# Мессенджер для получения и обработки сообщений от клиента (asyncio)
+
+### Технологический стек
+
+![app-testing workflow](https://github.com/iricshkin/async-messenger-project/actions/workflows/app-testing.yml/badge.svg)
+
+[![Python](https://img.shields.io/badge/-Python%203.10-464646?style=flat&logo=Python&logoColor=56C0C0&color=008080)](https://www.python.org/)
+[![GitHub%20Actions](https://img.shields.io/badge/-GitHub%20Actions-464646?style=flat&logo=GitHub%20actions&logoColor=56C0C0&color=008080)](https://github.com/features/actions)
 
 ### Приложение написано в качестве учебного проекта.
 
@@ -34,13 +41,6 @@
 
 ```
 
-### Технологический стек
-
-![app-testing workflow](https://github.com/iricshkin/async-messenger-project/actions/workflows/app-testing.yml/badge.svg)
-
-[![Python](https://img.shields.io/badge/-Python%203.10-464646?style=flat&logo=Python&logoColor=56C0C0&color=008080)](https://www.python.org/)
-[![GitHub%20Actions](https://img.shields.io/badge/-GitHub%20Actions-464646?style=flat&logo=GitHub%20actions&logoColor=56C0C0&color=008080)](https://github.com/features/actions)
-
 ### Установка
 
 - склонируйте репозиторий;
@@ -51,7 +51,7 @@
 
 - установите зависимости `python -m pip install -r requirements.txt`.
 
-## Описание работы приложения
+### Описание работы приложения
 
 1. Запустить сервер в server.py
 2. Создать соединение клиента с сервером client.py
