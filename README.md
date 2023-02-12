@@ -37,6 +37,7 @@
 ### Технологический стек
 
 ![app-testing workflow](https://github.com/iricshkin/async-messenger-project/actions/workflows/app-testing.yml/badge.svg)
+
 [![Python](https://img.shields.io/badge/-Python%203.10-464646?style=flat&logo=Python&logoColor=56C0C0&color=008080)](https://www.python.org/)
 [![GitHub%20Actions](https://img.shields.io/badge/-GitHub%20Actions-464646?style=flat&logo=GitHub%20actions&logoColor=56C0C0&color=008080)](https://github.com/features/actions)
 
